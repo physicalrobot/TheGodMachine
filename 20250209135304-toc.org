@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       b03d84a3-99cc-48fc-9f75-db5249eaf645
+:END:
+#+title: TOC
+
+* Table of Contents
+
+** [[id:f2bc51c5-b08a-42ac-a52f-e89d90124bcb][prologue]]
+   :PROPERTIES:
+   :TIMELINE: past
+   :FOCUS: Nazi Discovery—Himmler receives the relic and deciphers the Antarctic star map.
+   :END:
+
+** [[id:0674a0e6-af7f-4030-b348-c75d8dcac6c5][chapter1]]
+   :PROPERTIES:
+   :TIMELINE: [[id:76ee41b8-fed0-45f0-b4c4-9f1f76e8b71f][present]]
+   :FOCUS: Vikram Sharma discovers a "glitch" in his physics experiments, something fundamentally wrong with reality.
+   :END:
+
+** [[id:68ace8c8-00cc-4d05-91b3-2f156240656a][chapter2]]
+   :PROPERTIES:
+   :TIMELINE: past
+   :FOCUS: Dr. Anirudh Sharma’s Life—His work in ancient astronomy and mythology. He’s abruptly taken by intelligence agents.
+   :END:
+
+** Chapter 3
+   :PROPERTIES:
+   :TIMELINE: 2020s (Present)
+   :FOCUS: Vikram Digs Deeper—He finds declassified WWII files referencing his grandfather’s name.
+   :END:
+
+** Chapter 4
+   :PROPERTIES:
+   :TIMELINE: 1940s (Past)
+   :FOCUS: Eve Sinclair at Bletchley Park—She deciphers Nazi transmissions about Antarctica.
+   :END:
+
+** Chapter 5
+   :PROPERTIES:
+   :TIMELINE: 2020s (Present)
+   :FOCUS: Vikram's Reality Cracks—He starts experiencing strange anomalies, possibly visions of the past.
+   :END:
+
+** Chapter 6
+   :PROPERTIES:
+   :TIMELINE: 1940s (Past)
+   :FOCUS: Sharma and Eve Meet—She’s assigned to work with him; their journey begins.
+   :END:
+
+** Chapter 7
+   :PROPERTIES:
+   :TIMELINE: 2020s (Present)
+   :FOCUS: Vikram Tries to Find the Monolith—His research leads him to Antarctica.
+   :END:
+
+** Chapter 8
+   :PROPERTIES:
+   :TIMELINE: 1940s (Past)
+   :FOCUS: Mission to Antarctica—Sharma and Eve embark on a covert operation.
+   :END:
+
+** Chapter 9
+   :PROPERTIES:
+   :TIMELINE: 2020s (Present)
+   :FOCUS: Vikram Experiences a Full Breakdown—Reality glitches intensify; he sees visions of his grandfather.
+   :END:
+
+** Chapter 10
+   :PROPERTIES:
+   :TIMELINE: 1940s (Past)
+   :FOCUS: Antarctica: First Contact with the Monolith—Sharma realizes what the Brahmastra truly is.
+   :END:
+
+** Chapter 11
+   :PROPERTIES:
+   :TIMELINE: 2020s (Present)
+   :FOCUS: Vikram Finds the Site—He uncovers the buried Nazi base but realizes he's not alone.
+   :END:
+
+** Chapter 12
+   :PROPERTIES:
+   :TIMELINE: 1940s (Past)
+   :FOCUS: Betrayal & Catastrophe—The Nazi attempt to use the artifact ends in disaster.
+   :END:
+
+** Chapter 13
+   :PROPERTIES:
+   :TIMELINE: 2020s (Present)
+   :FOCUS: Final Revelation—Vikram comes face-to-face with the truth: Is history repeating itself?
+   :END:

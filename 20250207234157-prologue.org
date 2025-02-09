@@ -3,7 +3,7 @@
 :END:
 #+title: prologue
 
-** TAGS:[[id:750cc58a-32b4-4fb7-9619-ed7f0e77d975][past]]
+* Timeline: [[id:8cdc3a0b-775a-4bab-8584-c5b12d335ef9][past]]
 
 * The Seeds of Obsession
 ** Setting

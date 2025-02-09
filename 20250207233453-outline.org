@@ -5,9 +5,11 @@
 
 
 * STRUCTURE OVERVIEW
-  - [[id:f2bc51c5-b08a-42ac-a52f-e89d90124bcb][prologue]]: The discovery of the ancient artifact and the Nazi obsession with it. Ends with the hairline fracture forming, a foreshadowing of its greater implications.
-  - [[id:750cc58a-32b4-4fb7-9619-ed7f0e77d975][past]](1940s-50s): Dr. Anirudh Sharma and Major Eve Sinclair uncover the true nature of the Brahmastra and the monolith in Antarctica.
+  - [[id:8cdc3a0b-775a-4bab-8584-c5b12d335ef9][past]](1940s-50s): Dr. Anirudh Sharma and Major Eve Sinclair uncover the true nature of the Brahmastra and the monolith in Antarctica.
   - [[id:76ee41b8-fed0-45f0-b4c4-9f1f76e8b71f][present]](2020s-2030s): Vikram Sharma, a physicist, experiences strange anomalies—a glitch in reality—and gradually discovers that his grandfather’s mission was connected to a fundamental truth about the universe.
+
+
+* [[id:b03d84a3-99cc-48fc-9f75-db5249eaf645][TOC]]
 
 * PAST TIMELINE (Dr. Anirudh Sharma’s Story)
   This timeline follows Dr. Sharma and Major Eve Sinclair’s mission to Antarctica during WWII. The Nazis are seeking to harness an ancient, possibly extraterrestrial force hidden beneath the ice.
@@ -40,6 +42,33 @@
     - The U.S. secures the site, covering it up under Cold War secrecy.
     - Sharma returns to civilian life, haunted by visions and unanswered questions.
 
+
+** Setup
+*** Dr. Anirudth Sharma's backstory
+- Focus: A day in the life of Dr. Anirudh Sharma, establishing his deep knowledge of Vedic astronomy, Sanskrit, and ancient mythology.
+- Ends with: Sharma being told he must pack his things and leave with them.
+**** Key Events:
+    - As he gives a lecture on the cyclic nature of time in Vedic cosmology, his class is interrupted.
+    - Men in black suits (OSS agents or British intelligence) enter.
+    - They tell him he is needed immediately—no further explanation.
+
+
+*** Eve Sinclair's backstory
+- Focus: The contrast between Sharma's structured  academic life and Eve sinclair's chaotic world of wartime espionage.
+- Ends with: Orders being issued: "Find Dr. Anirudh Sharma. He's the only one who can help us understand this."
+**** Key Events:
+    - Eve Sinclair **deciphers a Nazi transmission** referencing:
+      - "Antarctica"
+      - "Brahmastra"
+      - An **unknown operation**
+    - The code is **unusually complex**—beyond regular Nazi military transmissions.
+    - The transmission is **incomplete**—pieces of the puzzle are missing.
+    - She takes the discovery to **her superiors**, who escalate it to American intelligence.
+    - **OSS agents recognize a connection to Vedic mythology** and request a specialist.
+
+  
+
+
 * PRESENT TIMELINE (Vikram Sharma’s Story)
   Vikram is a physicist who stumbles upon an anomaly in quantum physics, leading him to question the nature of reality. The deeper he digs, the more he realizes his grandfather’s past holds the key.
 
@@ -70,6 +99,7 @@
     - The same location where the Nazis and his grandfather once stood is now a secret military base.
     - What he finds changes everything.
 
+
 * HOW THE TIMELINES INTERCONNECT
 ** The Monolith’s Influence Over Time
    - The past timeline shows the first encounter with the monolith, while the present timeline reveals its ongoing effect on reality.
@@ -82,3 +112,4 @@
 ** The Artifact’s Ultimate Purpose
    - Was it a weapon? A failsafe? A piece of an ancient simulation?
    - The climax will reveal the true nature of the monolith and what it means for reality itself.
+

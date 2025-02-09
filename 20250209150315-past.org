@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8cdc3a0b-775a-4bab-8584-c5b12d335ef9
+:END:
+#+title: past
+
+* overview
+this file serves as a hub for all chapters set in the past.
+
+* linked chapters
+
+- [[id:f2bc51c5-b08a-42ac-a52f-e89d90124bcb][prologue]]
+- [[id:68ace8c8-00cc-4d05-91b3-2f156240656a][chapter2]]
