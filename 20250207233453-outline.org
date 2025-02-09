@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       0336abf7-ae70-41f8-9c81-fef0b1d601bf
+:END:
+#+title: outline
+
+
+* STRUCTURE OVERVIEW
+  - [[id:f2bc51c5-b08a-42ac-a52f-e89d90124bcb][prologue]]: The discovery of the ancient artifact and the Nazi obsession with it. Ends with the hairline fracture forming, a foreshadowing of its greater implications.
+  - [[id:750cc58a-32b4-4fb7-9619-ed7f0e77d975][past]](1940s-50s): Dr. Anirudh Sharma and Major Eve Sinclair uncover the true nature of the Brahmastra and the monolith in Antarctica.
+  - [[id:76ee41b8-fed0-45f0-b4c4-9f1f76e8b71f][present]](2020s-2030s): Vikram Sharma, a physicist, experiences strange anomalies—a glitch in reality—and gradually discovers that his grandfather’s mission was connected to a fundamental truth about the universe.
+
+* PAST TIMELINE (Dr. Anirudh Sharma’s Story)
+  This timeline follows Dr. Sharma and Major Eve Sinclair’s mission to Antarctica during WWII. The Nazis are seeking to harness an ancient, possibly extraterrestrial force hidden beneath the ice.
+
+** Key Themes
+   - The intersection of science and mythology—Sharma’s deep knowledge of Vedic texts helps decipher what the Nazis could not.
+   - The corruption of power—The Nazis see the monolith as a weapon, but Sharma realizes it’s something far more profound (a reality-altering device? A warning?).
+   - The cost of knowledge—This timeline reveals what happened to the monolith, why it was lost or hidden, and how it ultimately affected Sharma.
+   - Survival and secrecy—By the end, Sharma and Sinclair barely escape, and the U.S. takes control of the site, burying the truth.
+
+** Key Plot Points (Past)
+*** Nazis Advance Their Expedition
+    - Himmler sends a team to Antarctica, following the map from the stone tablet.
+    - The expedition uncovers the monolith, a mysterious structure buried under the ice.
+
+*** Eve Sinclair & Dr. Sharma Investigate
+    - The U.S. intercepts intelligence about the Nazi operation.
+    - Dr. Sharma, an expert in Sanskrit and mythology, is brought in because Nazi documents reference the Brahmastra.
+    - They launch a secret mission to infiltrate the Nazi camp.
+
+*** Discovery of the Monolith & Its Power
+    - The monolith’s inscriptions match ancient Hindu cosmology and other global myths.
+    - It has a device or mechanism that distorts reality (is it an ancient alien construct? A forgotten piece of lost civilization tech?).
+    - Sharma realizes that the myths of divine weapons are possibly descriptions of reality-altering technology.
+
+*** The Catastrophe: The Monolith is Sealed
+    - The Nazis try to activate the artifact, but something goes wrong.
+    - The monolith reacts violently, creating a reality distortion (similar to the modern-day “glitch”).
+    - The base collapses, the Nazis are wiped out, and Sharma and Sinclair barely escape.
+    - The U.S. secures the site, covering it up under Cold War secrecy.
+    - Sharma returns to civilian life, haunted by visions and unanswered questions.
+
+* PRESENT TIMELINE (Vikram Sharma’s Story)
+  Vikram is a physicist who stumbles upon an anomaly in quantum physics, leading him to question the nature of reality. The deeper he digs, the more he realizes his grandfather’s past holds the key.
+
+** Key Themes
+   - Scientific discovery meets ancient wisdom—Vikram thinks in terms of quantum physics, but his discoveries align with his grandfather’s research on mythology.
+   - The illusion of reality—As he investigates the glitch, he starts experiencing hallucinations, déjà vu, and visions from the past.
+   - The simulation theory unfolds—He begins to suspect the universe itself is a construct, and the monolith in Antarctica is a piece of its underlying framework.
+
+** Key Plot Points (Present)
+*** Vikram Discovers the Glitch
+    - Working at CERN or a similar high-tech lab, he notices a quantum event that defies physics.
+    - A particle disappears, as if it never existed. When he runs simulations, they keep returning impossible results.
+    - He finds strange mathematical patterns matching ancient symbols (hinting at the monolith’s connection).
+
+*** The Family Connection
+    - Researching further, he finds his grandfather’s classified records from WWII.
+    - Old photos, documents, and even some strange journal entries suggest that Dr. Sharma witnessed something beyond human understanding.
+    - The same symbols found in the monolith appear in Vikram’s quantum data.
+
+*** Reality Starts to Unravel
+    - Vikram experiences weird time loops, hallucinations, and altered memories.
+    - His experiments reveal glitches in reality, similar to what the monolith caused in the past.
+    - He suspects that the artifact is still influencing the world—perhaps buried in Antarctica or hidden by the government.
+
+*** Journey to Antarctica
+    - Vikram is now convinced that his grandfather wasn’t just studying mythology—he was trying to warn the world about something.
+    - He retraces his grandfather’s steps and heads to Antarctica to uncover the truth.
+    - The same location where the Nazis and his grandfather once stood is now a secret military base.
+    - What he finds changes everything.
+
+* HOW THE TIMELINES INTERCONNECT
+** The Monolith’s Influence Over Time
+   - The past timeline shows the first encounter with the monolith, while the present timeline reveals its ongoing effect on reality.
+   - The monolith could be warping time itself, causing historical events to loop or bleed into each other.
+
+** Echoes of the Past in the Present
+   - Vikram’s visions, déjà vu, and quantum anomalies are caused by the monolith’s lingering influence.
+   - He sees glimpses of his grandfather’s expedition—sometimes memories shift and rewrite themselves.
+
+** The Artifact’s Ultimate Purpose
+   - Was it a weapon? A failsafe? A piece of an ancient simulation?
+   - The climax will reveal the true nature of the monolith and what it means for reality itself.
+
