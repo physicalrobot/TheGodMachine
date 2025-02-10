@@ -4,8 +4,9 @@
 #+title: prologue-past
 
 * Context: [[id:66b41f7d-a802-4aa3-8729-605f9fb7e8dd][Prologue - Nazi Discovery]]
-* Timeline: [[id:4bb2ae90-09a3-4586-872e-554b26a3490f][Past Timeline
-]]
+* Timeline: [[id:4bb2ae90-09a3-4586-872e-554b26a3490f][Past Timeline]]
+
+
 * The Seeds of Obsession
 ** Setting
 - 1930s Berlin and remote locations worldwide
@@ -25,6 +26,7 @@
 - The star map vaguely indicates a location far to the south, which will later be pinpointed as Antarctica.
 
 ---
+
 
 * The Chamber of Secrets
 The air in the dimly lit chamber was heavy with the scent of aged parchment and dust, punctuated by the faint metallic tang of candle wax. Shelves groaned under the weight of tomes bound in cracked leather, their spines adorned with cryptic symbols and titles long erased from memory. Pagan idols loomed from shadowed alcoves, their cold, unblinking stares reflecting the flicker of the candelabras. This was his sanctum—a hidden library nestled deep within the heart of Berlin, stocked with artifacts and writings deemed heretical by the church and lunacy by academia.
