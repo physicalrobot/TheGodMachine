@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       f2bc51c5-b08a-42ac-a52f-e89d90124bcb
 :END:
-#+title: prologue
+#+title: prologue-past
 
-* Timeline: [[id:8cdc3a0b-775a-4bab-8584-c5b12d335ef9][past]]
-
+* Context: [[id:66b41f7d-a802-4aa3-8729-605f9fb7e8dd][Prologue - Nazi Discovery]]
+* Timeline: [[id:4bb2ae90-09a3-4586-872e-554b26a3490f][Past Timeline
+]]
 * The Seeds of Obsession
 ** Setting
 - 1930s Berlin and remote locations worldwide

@@ -5,8 +5,8 @@
 
 
 * STRUCTURE OVERVIEW
-  - [[id:8cdc3a0b-775a-4bab-8584-c5b12d335ef9][past]](1940s-50s): Dr. Anirudh Sharma and Major Eve Sinclair uncover the true nature of the Brahmastra and the monolith in Antarctica.
-  - [[id:76ee41b8-fed0-45f0-b4c4-9f1f76e8b71f][present]](2020s-2030s): Vikram Sharma, a physicist, experiences strange anomalies—a glitch in reality—and gradually discovers that his grandfather’s mission was connected to a fundamental truth about the universe.
+  - past(1940s-50s): Dr. Anirudh Sharma and Major Eve Sinclair uncover the true nature of the Brahmastra and the monolith in Antarctica.
+  - present(2020s-2030s): Vikram Sharma, a physicist, experiences strange anomalies—a glitch in reality—and gradually discovers that his grandfather’s mission was connected to a fundamental truth about the universe.
 
 
 * [[id:b03d84a3-99cc-48fc-9f75-db5249eaf645][TOC]]
@@ -22,6 +22,9 @@
 
 ** Key Plot Points (Past)
 *** Nazis Advance Their Expedition
+:PROPERTIES:
+:ID:       186dc39b-0dcd-4084-9558-ed0138e9889e
+:END:
     - Himmler sends a team to Antarctica, following the map from the stone tablet.
     - The expedition uncovers the monolith, a mysterious structure buried under the ice.
 
@@ -45,6 +48,9 @@
 
 ** Setup
 *** Dr. Anirudth Sharma's backstory
+:PROPERTIES:
+:ID:       460b674f-93da-4433-a76b-6395c4a14612
+:END:
 - Focus: A day in the life of Dr. Anirudh Sharma, establishing his deep knowledge of Vedic astronomy, Sanskrit, and ancient mythology.
 - Ends with: Sharma being told he must pack his things and leave with them.
 **** Key Events:

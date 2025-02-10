@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       68ace8c8-00cc-4d05-91b3-2f156240656a
 :END:
-#+title: chapter2
+#+title: chapter1-past
 
-
-
-* Timeline: [[id:8cdc3a0b-775a-4bab-8584-c5b12d335ef9][past]]
+* Context: [[id:e260d729-0a3b-45ef-b8e8-012211a4d72e][Chapter 1 - "The Scholar and the Summons" (Dr. Sharma)]]
+* Timeline: [[id:4bb2ae90-09a3-4586-872e-554b26a3490f][Past Timeline]]
+* Focus: [[id:460b674f-93da-4433-a76b-6395c4a14612][Dr. Anirudth Sharma's backstory]]

@@ -5,86 +5,100 @@
 
 * Table of Contents
 
-** [[id:f2bc51c5-b08a-42ac-a52f-e89d90124bcb][prologue]]
-   :PROPERTIES:
-   :TIMELINE: past
-   :FOCUS: Nazi Discovery—Himmler receives the relic and deciphers the Antarctic star map.
-   :END:
+  - This file serves as the main index for tracking past and present storylines separately.
+  - The final book will alternate between them, but this document lets you write each separately.
 
-** [[id:0674a0e6-af7f-4030-b348-c75d8dcac6c5][chapter1]]
+** Past Timeline
    :PROPERTIES:
-   :TIMELINE: [[id:76ee41b8-fed0-45f0-b4c4-9f1f76e8b71f][present]]
-   :FOCUS: Vikram Sharma discovers a "glitch" in his physics experiments, something fundamentally wrong with reality.
+   :CATEGORY: past
+   :ID:       4bb2ae90-09a3-4586-872e-554b26a3490f
    :END:
+   - This section contains all chapters taking place in the past (1940s-50s).
+   - Once fully written, they will be merged with the present timeline.
 
-** [[id:68ace8c8-00cc-4d05-91b3-2f156240656a][chapter2]]
-   :PROPERTIES:
-   :TIMELINE: past
-   :FOCUS: Dr. Anirudh Sharma’s Life—His work in ancient astronomy and mythology. He’s abruptly taken by intelligence agents.
-   :END:
+*** Prologue - Nazi Discovery
+    :PROPERTIES:
+    :TIMELINE: 1940s
+    :FOCUS: Himmler receives the relic and deciphers the Antarctic star map.
+    :ID:       66b41f7d-a802-4aa3-8729-605f9fb7e8dd
+    :END:
+***** Outline:
+    - [[id:186dc39b-0dcd-4084-9558-ed0138e9889e][Nazis Advance Their Expedition]]
 
-** Chapter 3
-   :PROPERTIES:
-   :TIMELINE: 2020s (Present)
-   :FOCUS: Vikram Digs Deeper—He finds declassified WWII files referencing his grandfather’s name.
-   :END:
+***** Story:
+    - [[id:f2bc51c5-b08a-42ac-a52f-e89d90124bcb][prologue-past]]
 
-** Chapter 4
-   :PROPERTIES:
-   :TIMELINE: 1940s (Past)
-   :FOCUS: Eve Sinclair at Bletchley Park—She deciphers Nazi transmissions about Antarctica.
-   :END:
+*** Chapter 1 - "The Scholar and the Summons" (Dr. Sharma)
+    :PROPERTIES:
+    :TIMELINE: 1942
+    :SETTING: UK/USA university
+    :FOCUS: Dr. Anirudh Sharma's expertise in Vedic astronomy and mythology.
+    :ID:       e260d729-0a3b-45ef-b8e8-012211a4d72e
+    :END:
+***** Outline:
+    - [[id:460b674f-93da-4433-a76b-6395c4a14612][Dr. Anirudth Sharma's backstory]]
 
-** Chapter 5
-   :PROPERTIES:
-   :TIMELINE: 2020s (Present)
-   :FOCUS: Vikram's Reality Cracks—He starts experiencing strange anomalies, possibly visions of the past.
-   :END:
+***** Story:
+    - [[id:68ace8c8-00cc-4d05-91b3-2f156240656a][chapter1-past]]
 
-** Chapter 6
-   :PROPERTIES:
-   :TIMELINE: 1940s (Past)
-   :FOCUS: Sharma and Eve Meet—She’s assigned to work with him; their journey begins.
-   :END:
 
-** Chapter 7
-   :PROPERTIES:
-   :TIMELINE: 2020s (Present)
-   :FOCUS: Vikram Tries to Find the Monolith—His research leads him to Antarctica.
-   :END:
+*** Chapter 2 - "The Cryptographer’s Dilemma" (Major Eve Sinclair)
+    :PROPERTIES:
+    :TIMELINE: 1942
+    :SETTING: Bletchley Park, England
+    :FOCUS: Eve deciphers the Nazi transmission referencing Antarctica.
+    :END:
+    - Orders are issued to find Dr. Sharma.
 
-** Chapter 8
-   :PROPERTIES:
-   :TIMELINE: 1940s (Past)
-   :FOCUS: Mission to Antarctica—Sharma and Eve embark on a covert operation.
-   :END:
+*** Chapter 3 - "The Mission to Antarctica"
+    :PROPERTIES:
+    :TIMELINE: 1942-1943
+    :SETTING: Secret expedition to Antarctica
+    :FOCUS: Sharma & Sinclair uncover Nazi excavation sites, find the Monolith.
+    :END:
+    - Nazis attempt to activate the relic, leading to catastrophe.
 
-** Chapter 9
-   :PROPERTIES:
-   :TIMELINE: 2020s (Present)
-   :FOCUS: Vikram Experiences a Full Breakdown—Reality glitches intensify; he sees visions of his grandfather.
-   :END:
 
-** Chapter 10
-   :PROPERTIES:
-   :TIMELINE: 1940s (Past)
-   :FOCUS: Antarctica: First Contact with the Monolith—Sharma realizes what the Brahmastra truly is.
-   :END:
 
-** Chapter 11
+** Present Timeline
    :PROPERTIES:
-   :TIMELINE: 2020s (Present)
-   :FOCUS: Vikram Finds the Site—He uncovers the buried Nazi base but realizes he's not alone.
+   :CATEGORY: present
+   :ID:       e3897d7a-0709-4909-8237-955e8121e39b
    :END:
+   - This section contains all chapters taking place in the present (2020s-2030s).
+   - Will be merged with past timeline after both are fully written.
 
-** Chapter 12
-   :PROPERTIES:
-   :TIMELINE: 1940s (Past)
-   :FOCUS: Betrayal & Catastrophe—The Nazi attempt to use the artifact ends in disaster.
-   :END:
+*** Chapter 1 - "The Glitch" (Vikram Sharma)
+    :PROPERTIES:
+    :TIMELINE: 2020s
+    :SETTING: Geneva, underground physics lab
+    :FOCUS: Vikram notices an anomaly in quantum physics that defies explanation.
+    :END:
+***** Outline:
+    -
+***** Story:
+    - [[id:0674a0e6-af7f-4030-b348-c75d8dcac6c5][chapter1-present]]
 
-** Chapter 13
+*** Chapter 2 - "Searching for the Past"
+    :PROPERTIES:
+    :TIMELINE: 2020s
+    :SETTING: University archives, military databases
+    :FOCUS: Vikram finds declassified WWII files referencing his grandfather.
+    :END:
+    - The files mention an **Antarctic expedition**, Vedic symbols.
+
+*** Chapter 3 - "Journey to Antarctica"
+    :PROPERTIES:
+    :TIMELINE: 2020s
+    :SETTING: Antarctica
+    :FOCUS: Vikram retraces his grandfather’s steps.
+    :END:
+    - He finds an abandoned Nazi base.
+
+
+** Final Integration & Adaptation
    :PROPERTIES:
-   :TIMELINE: 2020s (Present)
-   :FOCUS: Final Revelation—Vikram comes face-to-face with the truth: Is history repeating itself?
+   :CATEGORY: integration
    :END:
+   - After writing both timelines fully, this section will track where to merge past & present.
+   - Notes for alternating the chapters appropriately.
