@@ -9,7 +9,7 @@
 
 * The Seeds of Obsession
 ** Setting
-- 1930s Berlin and remote locations worldwide
+- Early 1938 Berlin and remote locations worldwide
 
 ** Overview
 - Introduce Heinrich Himmler and his occult-focused team in the Nazi regime.
@@ -29,11 +29,14 @@
 
 
 * The Chamber of Secrets
+
+** 1938
+
 The air in the dimly lit chamber was heavy with the scent of aged parchment and dust, punctuated by the faint metallic tang of candle wax. Shelves groaned under the weight of tomes bound in cracked leather, their spines adorned with cryptic symbols and titles long erased from memory. Pagan idols loomed from shadowed alcoves, their cold, unblinking stares reflecting the flicker of the candelabras. This was his sanctum—a hidden library nestled deep within the heart of Berlin, stocked with artifacts and writings deemed heretical by the church and lunacy by academia.
 
 At the center of the room, Heinrich Himmler leaned over a mahogany table scarred by centuries of use. His thin, gloved fingers traced the intricate lines of a freshly acquired relic—a weathered stone tablet etched with Sanskrit verses whispering of divine weapons and forgotten epochs. Behind him, members of the Ahnenerbe, the Nazi research institute for ancient studies, stood at attention, awaiting his orders like priests before their deity. The Reich had launched expeditions to the farthest reaches of the world—Tibet, Egypt, and Mesopotamia—an endeavor that now seemed to be bearing fruit.
 
-** A Revelation
+*** A Revelation
 - “This,” Himmler whispered, his voice tinged with reverence and hunger, “is no mere artifact. It is a revelation.”
 - His pale eyes glinted as he turned to his advisors, lifting the tablet toward the light.
 - “The Aryan race, our progenitors, were destined to wield powers beyond imagination. Their secrets were scattered, hidden, but not lost.”
@@ -44,7 +47,7 @@ Himmler’s lip curled in satisfaction. As the war edged closer to desperation, 
 
 It wasn't much to go off, but this was all they had left.
 
-** The Silence Before the Storm
+*** The Silence Before the Storm
 - The silence in the chamber was absolute, save for the rhythmic drip of melting wax pooling onto the wooden table.
 - Himmler traced his gloved fingers along the tablet’s surface, his pale eyes alight with something that bordered on religious fervor.
 - The ancient stone, cool and unyielding beneath his touch, bore secrets long buried by time and forgotten by the weak.
@@ -65,7 +68,7 @@ He lifted the stone, tilting it toward the light, his fingers tracing the deep g
 
 Dr. Krauss, one of the more outspoken occultists in Himmler’s inner circle, swallowed hard.
 
-“The monks who guarded this… they believed it could not be wielded by men alone. That it was placed beyond reach for a reason.”
+“The monks who guarded this… they believed it could not be wielded by men alone. That it was placed beyond reach for a reason. The stories of it's origins go far back into the last ice age, it's a mircale alone that it has survived this long.”
 
 “Then it is ours to reclaim,” Himmler said, his voice hard with conviction. “Destiny does not reward the hesitant.”
 
@@ -79,7 +82,7 @@ Then all was still.
 
 Himmler exhaled through his nose, unshaken.
 
-** Orders Given
+*** Orders Given
 - “Send word to Antarctica.”
 
 Krauss hesitated.

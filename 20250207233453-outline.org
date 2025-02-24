@@ -5,9 +5,8 @@
 
 
 * STRUCTURE OVERVIEW
-  - past(1940s-50s): Dr. Anirudh Sharma and Major Eve Sinclair uncover the true nature of the Brahmastra and the monolith in Antarctica.
+  - past(1930s-50s): Dr. Anirudh Sharma and Major Eve Sinclair uncover the true nature of the Brahmastra and the monolith in Antarctica.
   - present(2020s-2030s): Vikram Sharma, a physicist, experiences strange anomalies—a glitch in reality—and gradually discovers that his grandfather’s mission was connected to a fundamental truth about the universe.
-
 
 * [[id:b03d84a3-99cc-48fc-9f75-db5249eaf645][TOC]]
 
@@ -28,12 +27,23 @@
     - Himmler sends a team to Antarctica, following the map from the stone tablet.
     - The expedition uncovers the monolith, a mysterious structure buried under the ice.
 
-*** Eve Sinclair & Dr. Sharma Investigate
+*** Eve Sinclair Cracks Transmission and Recruits Sharma
+:PROPERTIES:
+:ID:       b0b6be00-3b32-44b1-88a8-92b8126f8df9
+:END:
     - The U.S. intercepts intelligence about the Nazi operation.
     - Dr. Sharma, an expert in Sanskrit and mythology, is brought in because Nazi documents reference the Brahmastra.
     - They launch a secret mission to infiltrate the Nazi camp.
 
+*** Eve & Anirudh Head to Antartica
+:PROPERTIES:
+:ID:       7244cb5c-cc85-4e84-816f-fb01a212ea60
+:END:
+    - Anirudh clarifies what the Brahmastra is.
+    - Playful banter foreshadows relationship.
+
 *** Discovery of the Monolith & Its Power
+
     - The monolith’s inscriptions match ancient Hindu cosmology and other global myths.
     - It has a device or mechanism that distorts reality (is it an ancient alien construct? A forgotten piece of lost civilization tech?).
     - Sharma realizes that the myths of divine weapons are possibly descriptions of reality-altering technology.
@@ -60,6 +70,9 @@
 
 
 *** Eve Sinclair's backstory
+:PROPERTIES:
+:ID:       e065a55a-200c-46b4-9499-2903be57ae9e
+:END:
 - Focus: The contrast between Sharma's structured  academic life and Eve sinclair's chaotic world of wartime espionage.
 - Ends with: Orders being issued: "Find Dr. Anirudh Sharma. He's the only one who can help us understand this."
 **** Key Events:
@@ -71,8 +84,6 @@
     - The transmission is **incomplete**—pieces of the puzzle are missing.
     - She takes the discovery to **her superiors**, who escalate it to American intelligence.
     - **OSS agents recognize a connection to Vedic mythology** and request a specialist.
-
-  
 
 
 * PRESENT TIMELINE (Vikram Sharma’s Story)

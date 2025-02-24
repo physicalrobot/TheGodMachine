@@ -28,36 +28,46 @@
 ***** Story:
     - [[id:f2bc51c5-b08a-42ac-a52f-e89d90124bcb][prologue-past]]
 
-*** Chapter 1 - "The Scholar and the Summons" (Dr. Sharma)
+*** Chapter 1 - "A Call to Action"
     :PROPERTIES:
-    :TIMELINE: 1942
+    :TIMELINE: 1939
     :SETTING: UK/USA university
-    :FOCUS: Dr. Anirudh Sharma's expertise in Vedic astronomy and mythology.
+    :FOCUS: First half is backstory of Eve and the second is Anirudh.
     :ID:       e260d729-0a3b-45ef-b8e8-012211a4d72e
     :END:
 ***** Outline:
     - [[id:460b674f-93da-4433-a76b-6395c4a14612][Dr. Anirudth Sharma's backstory]]
+    - [[id:e065a55a-200c-46b4-9499-2903be57ae9e][Eve Sinclair's backstory]]
+    - [[id:b0b6be00-3b32-44b1-88a8-92b8126f8df9][Eve Sinclair Cracks Transmission and Recruits Sharma]]
 
 ***** Story:
     - [[id:68ace8c8-00cc-4d05-91b3-2f156240656a][chapter1-past]]
 
-
-*** Chapter 2 - "The Cryptographer’s Dilemma" (Major Eve Sinclair)
-    :PROPERTIES:
-    :TIMELINE: 1942
-    :SETTING: Bletchley Park, England
-    :FOCUS: Eve deciphers the Nazi transmission referencing Antarctica.
+*** Chapter 2 - "The Briefing"
+      :PROPERTIES:
+    :TIMELINE: 1939
+    :SETTING: Washington DC
+    :FOCUS: Anirudh Sharma and Eve Sinclair meet for the first time, and Eve briefs him on the mission.
+    :ID:       5b3abea0-4134-4dba-9e90-3c628f9703cb
     :END:
-    - Orders are issued to find Dr. Sharma.
+***** Outline:
+    - [[id:b0b6be00-3b32-44b1-88a8-92b8126f8df9][Eve Sinclair Cracks Transmission and Recruits Sharma]]
 
-*** Chapter 3 - "The Mission to Antarctica"
+***** Story:
+    - [[id:654e8092-7945-49c6-9c81-710dc5d4797a][chapter2-past]]
+
+*** Chapter 3 - "The Trip to Antarctica"
     :PROPERTIES:
-    :TIMELINE: 1942-1943
+    :TIMELINE: 1939
     :SETTING: Secret expedition to Antarctica
-    :FOCUS: Sharma & Sinclair uncover Nazi excavation sites, find the Monolith.
+    :FOCUS: Sharma & Sinclair get the ship and head to Antartica (slight flirting to forshadow a relationship)
+    :ID:       97582180-af90-4952-9667-a6517a1a438f
     :END:
-    - Nazis attempt to activate the relic, leading to catastrophe.
+***** Outline:
+    - [[id:7244cb5c-cc85-4e84-816f-fb01a212ea60][Eve & Anirudh Head to Antartica]]
 
+***** Story:
+    - [[id:b5d56faa-0dfa-48fb-99a0-7fcf048a5f40][chapter3-past]]
 
 
 ** Present Timeline
